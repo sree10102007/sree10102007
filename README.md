@@ -26,10 +26,6 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sree10102007&show_icons=true&bg_color=0d1117&title_color=e94560&icon_color=38bdf8&text_color=8b949e&border_color=30363d&hide_border=false" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sree10102007&layout=compact&bg_color=0d1117&title_color=e94560&text_color=8b949e&border_color=30363d&hide_border=false&langs_count=8" />
-
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=sree10102007&theme=github-dark-blue&hide_border=true&background=0d1117&ring=e94560&sideLabels=8b949e&dates=6b7280&stroke=1f2937" />
