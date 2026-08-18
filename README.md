@@ -1,16 +1,79 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sree10102007/sree10102007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a2e,20:16213e,50:0f3460,100:e94560&height=200&section=header&text=Sree%20Hariharan&fontSize=38&fontColor=e94560&fontAlignY=40&desc=Embedded%20%7C%20Firmware%20%7C%20Linux%20%7C%20Automotive%20Systems&descSize=14&descAlignY=65&animation=fadeIn" />
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=E94560&center=true&vCenter=true&width=650&lines=Embedded+%2F+Firmware+Engineer;Automotive+ECU+%26+Real-Time+Systems;Linux+Internals+%7C+Device+Drivers+%7C+RTOS;C+%7C+C%2B%2B+%7C+ARM+Cortex-M+%7C+Bare-Metal;Building+close+to+the+metal." />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<img src="https://raw.githubusercontent.com/sree10102007/sree10102007/main/wormhole.svg" alt="wormhole" width="700"/>
+
+</div>
+
+```
+sree@embedded ~ $ whoami
+──────────────────────────────────────────────────────────
+  Role      : Embedded / Firmware Engineer
+  Focus     : Automotive ECUs, Linux internals, bare-metal C
+  Toolchain : ARM Cortex-M, CAN/LIN/UDS, JTAG/SWD, U-Boot
+  Kernel    : Linux device drivers, kernel modules, Yocto
+  Shell     : bash + tmux
+  Editor    : vim
+  Philosophy: Know the hardware before you abstract it
+──────────────────────────────────────────────────────────
+
+sree@embedded ~ $ cat interests.txt
+  ► Bare-metal & RTOS firmware development
+  ► Automotive protocols (CAN, LIN, UDS, AUTOSAR)
+  ► Linux kernel internals & device driver development
+  ► Cross-compilation, bootloaders (U-Boot), Yocto/Buildroot
+  ► Hardware/software co-design & JTAG/SWD debugging
+  ► Real-time systems, memory & performance tuning
+
+sree@embedded ~ $ neofetch --os
+──────────────────────────────────────────────────────────
+  OS        : Arch/Gentoo Linux [btw]
+  Kernel    : custom-built, patched, and debugged by hand
+  Init      : systemd
+  Terminal  : tmux + vim, no GUI needed
+──────────────────────────────────────────────────────────
+
+sree@embedded ~ $ █
+```
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=1000&pause=100000&color=E94560&center=true&vCenter=true&width=600&lines=Tools+%26+Technologies" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,python,arduino,raspberrypi,linux,git,bash,vim,vscode,cmake,docker,qt,ros,matlab" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sree10102007&bg_color=0d1117&color=e94560&line=0ea5e9&point=f97316&area=true&hide_border=true&cache_bust=1" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sree10102007&layout=compact&bg_color=0d1117&title_color=e94560&text_color=8b949e&hide_border=true&cache_bust=1" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=sree10102007&theme=github-dark-blue&hide_border=true&background=0d1117&ring=e94560&sideLabels=8b949e&dates=6b7280&stroke=1f2937" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sree10102007&bg_color=0d1117&color=38bdf8&line=e94560&point=f97316&area=true&hide_border=true" />
+
+<br/><br/>
+
+<!-- Animated contribution snake — requires a one-time GitHub Actions setup, see instructions below -->
+<img src="https://raw.githubusercontent.com/sree10102007/sree10102007/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=sree10102007&color=e94560&style=flat-square&label=profile+views" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:e94560&height=100&section=footer" />
+
+</div>
