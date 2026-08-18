@@ -1,0 +1,50 @@
+<svg width="700" height="220" viewBox="0 0 700 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="core" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="55%" stop-color="#0f0f1a"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#e94560" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#e94560" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="700" height="220" fill="#0d1117"/>
+
+  <!-- outer glow -->
+  <circle cx="350" cy="110" r="90" fill="url(#glow)">
+    <animate attributeName="r" values="80;95;80" dur="3s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- spinning rings -->
+  <g transform-origin="350 110">
+    <ellipse cx="350" cy="110" rx="120" ry="34" fill="none" stroke="#38bdf8" stroke-width="2" opacity="0.7">
+      <animateTransform attributeName="transform" type="rotate" from="0 350 110" to="360 350 110" dur="4s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="350" cy="110" rx="95" ry="26" fill="none" stroke="#f97316" stroke-width="2" opacity="0.7">
+      <animateTransform attributeName="transform" type="rotate" from="360 350 110" to="0 350 110" dur="3s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="350" cy="110" rx="70" ry="18" fill="none" stroke="#e94560" stroke-width="2" opacity="0.8">
+      <animateTransform attributeName="transform" type="rotate" from="0 350 110" to="360 350 110" dur="2s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <!-- event horizon core -->
+  <circle cx="350" cy="110" r="30" fill="url(#core)"/>
+
+  <!-- orbiting particles -->
+  <circle r="3" fill="#38bdf8">
+    <animateMotion dur="3s" repeatCount="indefinite" path="M -120,0 A 120,34 0 1,1 120,0 A 120,34 0 1,1 -120,0" additive="sum"/>
+    <animateTransform attributeName="transform" type="translate" values="350,110" additive="sum"/>
+  </circle>
+  <circle r="2.5" fill="#f97316">
+    <animateMotion dur="2s" repeatCount="indefinite" path="M -95,0 A 95,26 0 1,0 95,0 A 95,26 0 1,0 -95,0" additive="sum"/>
+    <animateTransform attributeName="transform" type="translate" values="350,110" additive="sum"/>
+  </circle>
+  <circle r="2" fill="#ffffff">
+    <animateMotion dur="1.4s" repeatCount="indefinite" path="M -70,0 A 70,18 0 1,1 70,0 A 70,18 0 1,1 -70,0" additive="sum"/>
+    <animateTransform attributeName="transform" type="translate" values="350,110" additive="sum"/>
+  </circle>
+</svg>
