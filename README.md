@@ -22,7 +22,15 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,python,arduino,raspberrypi,linux,git,bash,vim,vscode,cmake,docker,qt,matlab" />
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,python,arduino,raspberrypi,linux,git,bash,vim,vscode,cmake,qt,matlab" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
+<img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white" />
+<img src="https://img.shields.io/badge/AUTOSAR-000000?style=for-the-badge&logo=automotive&logoColor=white" />
+<img src="https://img.shields.io/badge/CAN--Bus-e94560?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FreeRTOS-000000?style=for-the-badge" />
 
 <br/><br/>
 
