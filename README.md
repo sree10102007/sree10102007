@@ -10,36 +10,11 @@
 
 </div>
 
-```
-sree@embedded ~ $ whoami
-──────────────────────────────────────────────────────────
-  Role      : Embedded / Firmware Engineer
-  Focus     : Automotive ECUs, Linux internals, bare-metal C
-  Toolchain : ARM Cortex-M, CAN/LIN/UDS, JTAG/SWD, U-Boot
-  Kernel    : Linux device drivers, kernel modules, Yocto
-  Shell     : bash + tmux
-  Editor    : vim
-  Philosophy: Know the hardware before you abstract it
-──────────────────────────────────────────────────────────
+<div align="center">
 
-sree@embedded ~ $ cat interests.txt
-  ► Bare-metal & RTOS firmware development
-  ► Automotive protocols (CAN, LIN, UDS, AUTOSAR)
-  ► Linux kernel internals & device driver development
-  ► Cross-compilation, bootloaders (U-Boot), Yocto/Buildroot
-  ► Hardware/software co-design & JTAG/SWD debugging
-  ► Real-time systems, memory & performance tuning
+<img src="https://raw.githubusercontent.com/sree10102007/sree10102007/main/terminal.svg" alt="terminal" width="700"/>
 
-sree@embedded ~ $ neofetch --os
-──────────────────────────────────────────────────────────
-  OS        : Arch/Gentoo Linux [btw]
-  Kernel    : custom-built, patched, and debugged by hand
-  Init      : systemd
-  Terminal  : tmux + vim, no GUI needed
-──────────────────────────────────────────────────────────
-
-sree@embedded ~ $ █
-```
+</div>
 
 <div align="center">
 
@@ -53,7 +28,7 @@ sree@embedded ~ $ █
 
 <img src="https://github-readme-stats.vercel.app/api?username=sree10102007&bg_color=0d1117&color=e94560&line=0ea5e9&point=f97316&area=true&hide_border=true&cache_bust=1" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sree10102007&layout=compact&bg_color=0d1117&title_color=e94560&text_color=8b949e&hide_border=true&cache_bust=1" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sree10102007&layout=compact&bg_color=0d1117&title_color=e94560&text_color=8b949e&hide_border=true&langs_count=8&cache_bust=2" />
 
 <br/>
 
