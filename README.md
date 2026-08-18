@@ -22,23 +22,19 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,python,arduino,raspberrypi,linux,git,bash,vim,vscode,cmake,docker,qt,ros,matlab" />
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,python,arduino,raspberrypi,linux,git,bash,vim,vscode,cmake,docker,qt,matlab" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sree10102007&bg_color=0d1117&color=e94560&line=0ea5e9&point=f97316&area=true&hide_border=true&cache_bust=1" />
+<img src="https://github-readme-stats.vercel.app/api?username=sree10102007&show_icons=true&bg_color=0d1117&title_color=e94560&icon_color=38bdf8&text_color=8b949e&border_color=30363d&hide_border=false" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sree10102007&layout=compact&bg_color=0d1117&title_color=e94560&text_color=8b949e&hide_border=true&langs_count=8&cache_bust=2" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sree10102007&layout=compact&bg_color=0d1117&title_color=e94560&text_color=8b949e&border_color=30363d&hide_border=false&langs_count=8" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=sree10102007&theme=github-dark-blue&hide_border=true&background=0d1117&ring=e94560&sideLabels=8b949e&dates=6b7280&stroke=1f2937" />
 
 <br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sree10102007&bg_color=0d1117&color=38bdf8&line=e94560&point=f97316&area=true&hide_border=true" />
-
-<br/><br/>
 
 <!-- Animated contribution snake — requires a one-time GitHub Actions setup, see instructions below -->
 <img src="https://raw.githubusercontent.com/sree10102007/sree10102007/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
